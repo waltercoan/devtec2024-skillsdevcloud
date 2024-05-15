@@ -51,7 +51,7 @@ public class ParticipanteServiceImpl
             properties.getFeatureContentSafe()
         );
         if(Boolean.parseBoolean(properties.getFeatureContentSafe())){
-            if(isContentSafe(participante)){
+            if(!isContentSafe(participante)){
                 throw new Exception("Content Safety Check FAIL!!!");
             }
         } 
