@@ -1,0 +1,148 @@
+2024-05-14 14:31:48.954-03:00 ERROR c.m.applicationinsights.agent - 
+*************************
+Application Insights Java Agent 3.5.2 startup failed (PID 45100)
+*************************
+
+Description:
+No connection string provided
+
+Action:
+Please provide connection string.
+
+2024-05-14 14:33:34.715-03:00 ERROR c.m.applicationinsights.agent - 
+*************************
+Application Insights Java Agent 3.5.2 startup failed (PID 15168)
+*************************
+
+Description:
+No connection string provided
+
+Action:
+Please provide connection string.
+
+2024-05-14 14:34:05.033-03:00 ERROR c.m.applicationinsights.agent - 
+*************************
+Application Insights Java Agent 3.5.2 startup failed (PID 8276)
+*************************
+
+Description:
+No connection string provided
+
+Action:
+Please provide connection string.
+
+2024-05-14 14:44:30.827-03:00 ERROR c.m.applicationinsights.agent - 
+*************************
+Application Insights Java Agent 3.5.2 startup failed (PID 32880)
+*************************
+
+Description:
+No connection string provided
+
+Action:
+Please provide connection string.
+
+2024-05-14 14:47:20.405-03:00 WARN  c.a.c.h.netty.implementation.Utility - The following Netty dependencies have versions that do not match the versions specified in the azure-core-http-netty pom.xml file. This may result in unexpected behavior. If your application runs without issue this message can be ignored, otherwise please update the Netty dependencies to match the versions specified in the pom.xml file. Versions found in runtime: 'io.netty:netty-common' version not found (expected: 4.1.101.Final),'io.netty:netty-handler' version not found (expected: 4.1.101.Final),'io.netty:netty-handler-proxy' version not found (expected: 4.1.101.Final),'io.netty:netty-buffer' version not found (expected: 4.1.101.Final),'io.netty:netty-codec' version not found (expected: 4.1.101.Final),'io.netty:netty-codec-http' version not found (expected: 4.1.101.Final),'io.netty:netty-codec-http2' version not found (expected: 4.1.101.Final)
+2024-05-14 14:47:23.679-03:00 INFO  c.m.applicationinsights.agent - Application Insights Java Agent 3.5.2 started successfully (PID 29260, JVM running for 5.906 s)
+2024-05-14 14:47:23.684-03:00 INFO  c.m.applicationinsights.agent - Java version: 17.0.7, vendor: Eclipse Adoptium, home: C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot
+2024-05-14 15:40:35.511-03:00 ERROR c.m.applicationinsights.agent - 
+*************************
+Application Insights Java Agent 3.5.2 startup failed (PID 47544)
+*************************
+
+Description:
+No connection string provided
+
+Action:
+Please provide connection string.
+
+2024-05-14 15:41:57.286-03:00 ERROR c.m.applicationinsights.agent - 
+*************************
+Application Insights Java Agent 3.5.2 startup failed (PID 40584)
+*************************
+
+Description:
+No connection string provided
+
+Action:
+Please provide connection string.
+
+2024-05-14 15:59:37.594-03:00 ERROR c.m.applicationinsights.agent - 
+*************************
+Application Insights Java Agent 3.5.2 startup failed (PID 31728)
+*************************
+
+Description:
+No connection string provided
+
+Action:
+Please provide connection string.
+
+2024-05-14 16:03:29.278-03:00 ERROR c.m.applicationinsights.agent - 
+*************************
+Application Insights Java Agent 3.5.2 startup failed (PID 17404)
+*************************
+
+Description:
+No connection string provided
+
+Action:
+Please provide connection string.
+
+2024-05-14 16:04:26.995-03:00 WARN  c.a.c.h.netty.implementation.Utility - The following Netty dependencies have versions that do not match the versions specified in the azure-core-http-netty pom.xml file. This may result in unexpected behavior. If your application runs without issue this message can be ignored, otherwise please update the Netty dependencies to match the versions specified in the pom.xml file. Versions found in runtime: 'io.netty:netty-common' version not found (expected: 4.1.101.Final),'io.netty:netty-handler' version not found (expected: 4.1.101.Final),'io.netty:netty-handler-proxy' version not found (expected: 4.1.101.Final),'io.netty:netty-buffer' version not found (expected: 4.1.101.Final),'io.netty:netty-codec' version not found (expected: 4.1.101.Final),'io.netty:netty-codec-http' version not found (expected: 4.1.101.Final),'io.netty:netty-codec-http2' version not found (expected: 4.1.101.Final)
+2024-05-14 16:04:31.440-03:00 INFO  c.m.applicationinsights.agent - Application Insights Java Agent 3.5.2 started successfully (PID 32536, JVM running for 8.798 s)
+2024-05-14 16:04:31.451-03:00 INFO  c.m.applicationinsights.agent - Java version: 17.0.7, vendor: Eclipse Adoptium, home: C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot
+2024-05-14 16:55:30.183-03:00 WARN  c.a.c.h.netty.implementation.Utility - The following Netty dependencies have versions that do not match the versions specified in the azure-core-http-netty pom.xml file. This may result in unexpected behavior. If your application runs without issue this message can be ignored, otherwise please update the Netty dependencies to match the versions specified in the pom.xml file. Versions found in runtime: 'io.netty:netty-common' version not found (expected: 4.1.101.Final),'io.netty:netty-handler' version not found (expected: 4.1.101.Final),'io.netty:netty-handler-proxy' version not found (expected: 4.1.101.Final),'io.netty:netty-buffer' version not found (expected: 4.1.101.Final),'io.netty:netty-codec' version not found (expected: 4.1.101.Final),'io.netty:netty-codec-http' version not found (expected: 4.1.101.Final),'io.netty:netty-codec-http2' version not found (expected: 4.1.101.Final)
+2024-05-14 16:55:33.441-03:00 INFO  c.m.applicationinsights.agent - Application Insights Java Agent 3.5.2 started successfully (PID 47968, JVM running for 5.582 s)
+2024-05-14 16:55:33.452-03:00 INFO  c.m.applicationinsights.agent - Java version: 17.0.7, vendor: Eclipse Adoptium, home: C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot
+2024-05-15 08:42:38.328-03:00 ERROR c.m.applicationinsights.agent - 
+*************************
+Application Insights Java Agent 3.5.2 startup failed (PID 20136)
+*************************
+
+Description:
+No connection string provided
+
+Action:
+Please provide connection string.
+
+2024-05-15 08:44:11.638-03:00 ERROR c.m.applicationinsights.agent - 
+*************************
+Application Insights Java Agent 3.5.2 startup failed (PID 28096)
+*************************
+
+Description:
+No connection string provided
+
+Action:
+Please provide connection string.
+
+2024-05-15 08:44:58.435-03:00 WARN  c.a.c.h.netty.implementation.Utility - The following Netty dependencies have versions that do not match the versions specified in the azure-core-http-netty pom.xml file. This may result in unexpected behavior. If your application runs without issue this message can be ignored, otherwise please update the Netty dependencies to match the versions specified in the pom.xml file. Versions found in runtime: 'io.netty:netty-common' version not found (expected: 4.1.101.Final),'io.netty:netty-handler' version not found (expected: 4.1.101.Final),'io.netty:netty-handler-proxy' version not found (expected: 4.1.101.Final),'io.netty:netty-buffer' version not found (expected: 4.1.101.Final),'io.netty:netty-codec' version not found (expected: 4.1.101.Final),'io.netty:netty-codec-http' version not found (expected: 4.1.101.Final),'io.netty:netty-codec-http2' version not found (expected: 4.1.101.Final)
+2024-05-15 08:45:01.614-03:00 INFO  c.m.applicationinsights.agent - Application Insights Java Agent 3.5.2 started successfully (PID 10100, JVM running for 5.716 s)
+2024-05-15 08:45:01.624-03:00 INFO  c.m.applicationinsights.agent - Java version: 17.0.7, vendor: Eclipse Adoptium, home: C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot
+2024-05-15 08:55:15.183-03:00 WARN  c.a.c.h.netty.implementation.Utility - The following Netty dependencies have versions that do not match the versions specified in the azure-core-http-netty pom.xml file. This may result in unexpected behavior. If your application runs without issue this message can be ignored, otherwise please update the Netty dependencies to match the versions specified in the pom.xml file. Versions found in runtime: 'io.netty:netty-common' version not found (expected: 4.1.101.Final),'io.netty:netty-handler' version not found (expected: 4.1.101.Final),'io.netty:netty-handler-proxy' version not found (expected: 4.1.101.Final),'io.netty:netty-buffer' version not found (expected: 4.1.101.Final),'io.netty:netty-codec' version not found (expected: 4.1.101.Final),'io.netty:netty-codec-http' version not found (expected: 4.1.101.Final),'io.netty:netty-codec-http2' version not found (expected: 4.1.101.Final)
+2024-05-15 08:55:18.272-03:00 INFO  c.m.applicationinsights.agent - Application Insights Java Agent 3.5.2 started successfully (PID 3640, JVM running for 5.403 s)
+2024-05-15 08:55:18.281-03:00 INFO  c.m.applicationinsights.agent - Java version: 17.0.7, vendor: Eclipse Adoptium, home: C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot
+2024-05-15 08:57:34.470-03:00 WARN  c.a.c.h.netty.implementation.Utility - The following Netty dependencies have versions that do not match the versions specified in the azure-core-http-netty pom.xml file. This may result in unexpected behavior. If your application runs without issue this message can be ignored, otherwise please update the Netty dependencies to match the versions specified in the pom.xml file. Versions found in runtime: 'io.netty:netty-common' version not found (expected: 4.1.101.Final),'io.netty:netty-handler' version not found (expected: 4.1.101.Final),'io.netty:netty-handler-proxy' version not found (expected: 4.1.101.Final),'io.netty:netty-buffer' version not found (expected: 4.1.101.Final),'io.netty:netty-codec' version not found (expected: 4.1.101.Final),'io.netty:netty-codec-http' version not found (expected: 4.1.101.Final),'io.netty:netty-codec-http2' version not found (expected: 4.1.101.Final)
+2024-05-15 08:57:37.708-03:00 INFO  c.m.applicationinsights.agent - Application Insights Java Agent 3.5.2 started successfully (PID 18080, JVM running for 5.686 s)
+2024-05-15 08:57:37.717-03:00 INFO  c.m.applicationinsights.agent - Java version: 17.0.7, vendor: Eclipse Adoptium, home: C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot
+2024-05-15 09:06:20.687-03:00 ERROR c.m.applicationinsights.agent - 
+*************************
+Application Insights Java Agent 3.5.2 startup failed (PID 26764)
+*************************
+
+Description:
+No connection string provided
+
+Action:
+Please provide connection string.
+
+2024-05-15 09:06:53.670-03:00 WARN  c.a.c.h.netty.implementation.Utility - The following Netty dependencies have versions that do not match the versions specified in the azure-core-http-netty pom.xml file. This may result in unexpected behavior. If your application runs without issue this message can be ignored, otherwise please update the Netty dependencies to match the versions specified in the pom.xml file. Versions found in runtime: 'io.netty:netty-common' version not found (expected: 4.1.101.Final),'io.netty:netty-handler' version not found (expected: 4.1.101.Final),'io.netty:netty-handler-proxy' version not found (expected: 4.1.101.Final),'io.netty:netty-buffer' version not found (expected: 4.1.101.Final),'io.netty:netty-codec' version not found (expected: 4.1.101.Final),'io.netty:netty-codec-http' version not found (expected: 4.1.101.Final),'io.netty:netty-codec-http2' version not found (expected: 4.1.101.Final)
+2024-05-15 09:06:56.854-03:00 INFO  c.m.applicationinsights.agent - Application Insights Java Agent 3.5.2 started successfully (PID 11224, JVM running for 5.457 s)
+2024-05-15 09:06:56.864-03:00 INFO  c.m.applicationinsights.agent - Java version: 17.0.7, vendor: Eclipse Adoptium, home: C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot
+2024-05-15 09:42:11.864-03:00 WARN  c.a.c.h.netty.implementation.Utility - The following Netty dependencies have versions that do not match the versions specified in the azure-core-http-netty pom.xml file. This may result in unexpected behavior. If your application runs without issue this message can be ignored, otherwise please update the Netty dependencies to match the versions specified in the pom.xml file. Versions found in runtime: 'io.netty:netty-common' version not found (expected: 4.1.101.Final),'io.netty:netty-handler' version not found (expected: 4.1.101.Final),'io.netty:netty-handler-proxy' version not found (expected: 4.1.101.Final),'io.netty:netty-buffer' version not found (expected: 4.1.101.Final),'io.netty:netty-codec' version not found (expected: 4.1.101.Final),'io.netty:netty-codec-http' version not found (expected: 4.1.101.Final),'io.netty:netty-codec-http2' version not found (expected: 4.1.101.Final)
+2024-05-15 09:42:14.944-03:00 INFO  c.m.applicationinsights.agent - Application Insights Java Agent 3.5.2 started successfully (PID 184, JVM running for 5.345 s)
+2024-05-15 09:42:14.952-03:00 INFO  c.m.applicationinsights.agent - Java version: 17.0.7, vendor: Eclipse Adoptium, home: C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot
+2024-05-15 09:49:50.724-03:00 WARN  c.a.c.h.netty.implementation.Utility - The following Netty dependencies have versions that do not match the versions specified in the azure-core-http-netty pom.xml file. This may result in unexpected behavior. If your application runs without issue this message can be ignored, otherwise please update the Netty dependencies to match the versions specified in the pom.xml file. Versions found in runtime: 'io.netty:netty-common' version not found (expected: 4.1.101.Final),'io.netty:netty-handler' version not found (expected: 4.1.101.Final),'io.netty:netty-handler-proxy' version not found (expected: 4.1.101.Final),'io.netty:netty-buffer' version not found (expected: 4.1.101.Final),'io.netty:netty-codec' version not found (expected: 4.1.101.Final),'io.netty:netty-codec-http' version not found (expected: 4.1.101.Final),'io.netty:netty-codec-http2' version not found (expected: 4.1.101.Final)
+2024-05-15 09:49:53.817-03:00 INFO  c.m.applicationinsights.agent - Application Insights Java Agent 3.5.2 started successfully (PID 19340, JVM running for 6.002 s)
+2024-05-15 09:49:53.825-03:00 INFO  c.m.applicationinsights.agent - Java version: 17.0.7, vendor: Eclipse Adoptium, home: C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot
