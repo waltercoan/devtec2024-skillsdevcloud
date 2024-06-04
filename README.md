@@ -10,14 +10,23 @@ A proposta da palestra é apresentar um conjunto de habilidades sobre computaç�
 ### Slides
 - [Download](slides/2024-05-14-devtec-v3.pdf)
 
+### Fotos
+![Apresentação](fotos/16052024-IMG_6297.jpg "Apresentação")
+![Apresentação](fotos/16052024-IMG_6298.jpg "Apresentação")
+![Apresentação](fotos/16052024-IMG_6301.jpg "Apresentação")
+![Apresentação](fotos/16052024-IMG_6302.jpg "Apresentação")
+
+
 ### RBAC
 - Cognitive Services Data Reader (Preview) 
 - Cognitive Services User 
 - Reader
 - Storage Table Data Contributor 
 
+## Deploy do serviço no Azure
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fwaltercoan%2Fdevtec2024-skillsdevcloud%2Fmain%2Ftemplate.json)
 
-### Deploy
+### Deploy do código
 
 ```
 mvn com.microsoft.azure:azure-webapp-maven-plugin:2.9.0:config
